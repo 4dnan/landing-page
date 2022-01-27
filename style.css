@@ -1,0 +1,71 @@
+body { 
+background: pink;
+margin: 10;
+padding: 10;
+}
+.home{
+text-align: right;
+}
+.top{
+  position: relative;
+  border: 1px solid;
+  border-color: white;
+}
+h1{
+  text-align: left;
+  color: white;
+  border-bottom: 4px solid 
+}
+h2{
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+p{
+  color: white;
+  font-size: 19px;
+  border-radius: 20px;
+  border: 2px solid #73AD21;
+  border-color: white;
+  padding: 10px;
+}
+  h3 {
+    color: white;
+   font-size: 30px;
+   text-decoration: 4px underline;
+  }
+  #aut li{
+    font-weight: bold;
+  }
+  li{
+    color: white;
+    border: 3px inset;
+  }
+h4{
+  color: white;
+  font-size: 30px;
+  text-decoration: 4px underline;
+}
+
+h5{
+color: white;
+font-size: 30px;
+text-decoration: 4px underline;
+text-align: center;
+}
+  
+
+#genre li{
+  display: inline;
+  padding: 5px;
+  font-size: 18px;
+}
+#genre2 li{
+  display: inline;
+  padding: 5px;
+}
+#genre3 li{
+  display: inline;
+  padding: 5px;
+}
